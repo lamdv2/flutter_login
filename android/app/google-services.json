@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881402568873",
+    "project_id": "authtravelflutter",
+    "storage_bucket": "authtravelflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881402568873:android:424d4fe25bcb4b18fa49b8",
+        "android_client_info": {
+          "package_name": "com.example.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881402568873-v941vni2f9do88ai3mhg0gacd94g0sc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel",
+            "certificate_hash": "64b0c8a60c34d610bbc04b446590ae1f0f2a968e"
+          }
+        },
+        {
+          "client_id": "881402568873-88jau8v93eceft4fs8a90m8b7rdh6rbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6Q7rDW64TOpiPucLadFf82OZVk1yJdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881402568873-88jau8v93eceft4fs8a90m8b7rdh6rbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
